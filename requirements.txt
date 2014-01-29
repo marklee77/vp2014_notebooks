@@ -1,6 +1,10 @@
+Cython==0.20
 Jinja2==2.7.2
 MarkupSafe==0.18
 ipython==1.1.0
 numpy==1.8.0
 pyzmq==14.0.1
 tornado==3.2
+virtualenv==1.11.2
+git+https://github.com/marklee77/Variable-Size-Vector-Bin-Packing#egg=vsvbp
+git+https://github.com/marklee77/vpack#egg=vectorpack
