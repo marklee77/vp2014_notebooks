@@ -1,6 +1,7 @@
 Cython==0.20
 Jinja2==2.7.2
 MarkupSafe==0.18
+PyYAML==3.10
 ipython==1.1.0
 numpy==1.8.0
 pandas==0.13.0
